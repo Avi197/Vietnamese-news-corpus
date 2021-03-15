@@ -1,6 +1,9 @@
 ## 2 millions news corpus for Vietnamese NLP task
 
-All data was removed dupplicate, invisible space, ....
+News crawled from various popular Vietnamese news source: Dantri, Tuoitre, Thanhnien, Vnexpress, Vtv, Vietnamnet
+
+All data was preprocessed: removed dupplicate, invisible space, ....
+
 
 MongoDB (all information: author, images, cover, ....): ~6GB uncompressed\
 [Download](https://drive.google.com/file/d/1gTFdON-3DFL1HJ-01VXfmmPUzmdNPLzX/view?usp=sharing)
