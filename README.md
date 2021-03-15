@@ -23,5 +23,5 @@ Title, description, content tokenized (raw text): ~5GB uncompressed, ~1GB compre
 [Download](https://drive.google.com/file/d/1pXeX8YFOE1BRpKusAYFdBmjO6X9IH-g2/view?usp=sharing)
 
 
-There is a bigger news corpus by binvq with different news source, contain around 14 millions news, use that one if you need a lot of data\
+There is a bigger news corpus by binvq with different news source, contain around 14 millions news (raw, not preprocessed), use that one if you need a lot of data\
 [Binhvq news corpus](https://github.com/binhvq/news-corpus)
